@@ -82,3 +82,5 @@ Sistem ini memungkinkan pencatatan kondisi ternak secara berkala sehingga dapat 
 | GET    | /api/ternak-with-user | Menampilkan data ternak beserta nama user |
 
 ---
+
+Link Youtube : https://youtu.be/rwT-BsSneS8
